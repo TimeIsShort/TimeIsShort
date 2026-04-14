@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFM504/giphy.gif" width="50"/> Hi, I'm TimeIsShort
+# 👋 你好，我是 TimeIsShort
+
+独立开发者，正在构建 AI 驱动的技术社区 [PandaHub](https://github.com/TimeIsShort/pandahub)。
 
 <p>
   <a href="https://github.com/TimeIsShort">
@@ -12,41 +14,63 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-22-brightgreen?style=flat-square&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-5-brightgreen?style=flat-square" alt="Express"/>
   <img src="https://img.shields.io/badge/SQLite-brightgreen?style=flat-square&logo=sqlite" alt="SQLite"/>
   <img src="https://img.shields.io/badge/AI-MiniMax-brightgreen?style=flat-square" alt="MiniMax"/>
-  <img src="https://img.shields.io/badge/Frontend-PWA-brightgreen?style=flat-square&logo=pwa" alt="PWA"/>
-  <img src="https://img.shields.io/badge/DevOps-GitHub CLI-brightgreen?style=flat-square&logo=github-actions" alt="GitHub"/>
-</p>
-
-## 📦 Featured Projects
-
-<p>
-  <a href="https://github.com/TimeIsShort/pandahub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TimeIsShort&repo=pandahub&theme=tokyo_night&show_owner=true" alt="PandaHub"/>
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TimeIsShort&theme=tokyo_night&bg_color=0d1117&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p>
-  <img src="https://profile-counter.glitch.me/TimeIsShort/count.svg" alt="Profile Views"/>
-</p>
-
-## 🏆 Achievements
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=TimeIsShort&theme=tokyo_night&no-frame=true&no-bg=true&margin-w=8" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/PWA-Supported-brightgreen?style=flat-square" alt="PWA"/>
+  <img src="https://img.shields.io/badge/DevOps-GitHub-brightgreen?style=flat-square&logo=github-actions" alt="GitHub"/>
 </p>
 
 ---
 
-*Building tools that matter. Code is poetry.*
+## 📦 主要项目
+
+### [PandaHub](https://github.com/TimeIsShort/pandahub)
+
+熊猫社区 — 开放的技术交流论坛，支持 AI 对话、游戏化积分体系、每日签到、勋章系统。
+
+| 指标 | 数据 |
+|------|------|
+| 语言 | JavaScript / Node.js |
+| 数据库 | SQLite |
+| 安全修复 | 32+ 项 |
+| 架构 | Express 5 · WebSocket · PWA |
+
+**技术亮点**：Express 5 现代化改造、多轮安全审计（SQL注入/XSS/权限校验）、实时 WebSocket 通知、AI 助手集成、影响力/积分经济系统
+
+---
+
+## 📊 开源项目统计
+
+<p>
+  <img src="https://img.shields.io/github/stars/TimeIsShort/pandahub?style=for-the-badge&color=brightgreen" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/TimeIsShort/pandahub?style=for-the-badge&color=blue" alt="Forks"/>
+  <img src="https://img.shields.io/github/license/TimeIsShort/pandahub?style=for-the-badge&color=green" alt="License"/>
+</p>
+
+---
+
+## 🎯 当前方向
+
+- 🤖 AI Agent 协作工作流设计与实现
+- 📡 多 Bot 架构（飞书平台接入）
+- 🚀 独立开发者产品化实践
+
+---
+
+## 📬 联系我
+
+<p>
+  <a href="https://github.com/TimeIsShort">
+    <img src="https://img.shields.io/github/followers/TimeIsShort?style=social&logo=github" alt="Followers"/>
+  </a>
+  <a href="https://github.com/TimeIsShort/pandahub">
+    <img src="https://img.shields.io/github/stars/TimeIsShort/pandahub?style=social&logo=github" alt="Stars"/>
+  </a>
+</p>
+
+GitHub: [@TimeIsShort](https://github.com/TimeIsShort) · 欢迎 Follow & Star ⭐
