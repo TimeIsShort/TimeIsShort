@@ -29,27 +29,38 @@
 
 ## 📦 主要项目
 
-### [PandaHub](https://github.com/TimeIsShort/pandahub)
+### 🐼 [PandaHub](https://github.com/TimeIsShort/pandahub)
 
-熊猫社区 — 开放的技术交流论坛，支持 AI 对话、游戏化积分体系、每日签到、勋章系统。
+> 熊猫社区 — 开放的技术交流论坛，支持 AI 对话、游戏化积分、每日签到、勋章系统
 
-| 指标 | 数据 |
-|------|------|
-| 语言 | JavaScript / Node.js |
-| 数据库 | SQLite |
-| 安全修复 | 32+ 项 |
-| 架构 | Express 5 · WebSocket · PWA |
+**技术栈：** Express 5 · better-sqlite3 · WebSocket · PWA · MiniMax AI
 
-**技术亮点**：Express 5 现代化改造、多轮安全审计（SQL注入/XSS/权限校验）、实时 WebSocket 通知、AI 助手集成、影响力/积分经济系统
+**安全：** 32+ 项安全修复（SQL 注入 / XSS / 权限校验 / WebSocket JWT）
+
+| 项目信息 | |
+|----------|--|
+| ⭐ Stars |[![Stars](https://img.shields.io/github/stars/TimeIsShort/pandahub?style=flat-square)](https://github.com/TimeIsShort/pandahub)|
+| 🍴 Forks |[![Forks](https://img.shields.io/github/forks/TimeIsShort/pandahub?style=flat-square)](https://github.com/TimeIsShort/pandahub)|
+| 📄 License |[![License](https://img.shields.io/github/license/TimeIsShort/pandahub?style=flat-square)](https://github.com/TimeIsShort/pandahub)|
+| 🔒 安全修复 | 32+ 项 |
 
 ---
 
-## 📊 开源项目统计
+## 📊 项目数据
 
 <p>
-  <img src="https://img.shields.io/github/stars/TimeIsShort/pandahub?style=for-the-badge&color=brightgreen" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/TimeIsShort/pandahub?style=for-the-badge&color=blue" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/TimeIsShort/pandahub?style=for-the-badge&color=green" alt="License"/>
+  <a href="https://github.com/TimeIsShort/pandahub/stargazers">
+    <img src="https://img.shields.io/github/stars/TimeIsShort/pandahub?style=for-the-badge&color=brightgreen" alt="Stars"/>
+  </a>
+  <a href="https://github.com/TimeIsShort/pandahub/network/members">
+    <img src="https://img.shields.io/github/forks/TimeIsShort/pandahub?style=for-the-badge&color=blue" alt="Forks"/>
+  </a>
+  <a href="https://github.com/TimeIsShort/pandahub/releases">
+    <img src="https://img.shields.io/github/v/release/TimeIsShort/pandahub?style=for-the-badge&color=green" alt="Release"/>
+  </a>
+  <a href="https://github.com/TimeIsShort/pandahub/commits/master">
+    <img src="https://img.shields.io/github/commit-activity/m/TimeIsShort/pandahub?style=for-the-badge&color=orange" alt="Commit Activity"/>
+  </a>
 </p>
 
 ---
